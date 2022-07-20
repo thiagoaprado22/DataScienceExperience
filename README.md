@@ -1,6 +1,6 @@
-# DataScienceExperience
+# DataScienceLearningExperience - Social Data Science
 
-Aprendendo Ciência de Dados na prática ! 
+
 
 Neste repositório incluirei diversos notebooks em Python que descrevem os principais projetos pensados e feitos por mim para aprendizagem prática relacionados à Ciência de Dados.
 
