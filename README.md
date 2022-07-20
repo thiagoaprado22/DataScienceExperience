@@ -1,4 +1,8 @@
-# Considerações Importantes
+# Ciência de Dados Sociais ou ainda ciências sociais computacionais (CSS) 
+
+A Universidade de Copenhague em seu site descreve a ciência de dados sociais como uma nova disciplina que combina as ciências sociais e a ciência da computação, na qual a análise de big data está ligada à teoria e análise científica social.
+
+No Reino Unido o instituto nacional de ciência de dados e inteligência artificial fundado em 2015 mantem como area de pesquisa a ciência de dados sociais. O objetivos e enfrentar  os 
 
 Neste repositório incluirei diversos notebooks em Python que descrevem os principais projetos pensados e feitos por mim para aprendizagem prática relacionados à Ciência de Dados combinados com as Ciências Sociais. <i/>"As humanidades digitais referem-se ao conjunto das Ciências Humanas e Sociais, às Artes e às Letras. As humanidades digitais não negam o passado; apoiam-se, pelo contrário, no conjunto dos paradigmas, no saber fazer e conhecimentos próprios dessas disciplinas, mobilizando simultaneamente os instrumentos e as perspectivas singulares do mundo digital. As humanidades digitais designam uma transdisciplina, portadora dos métodos, dos dispositivos e das perspectivas heurísticas ligadas ao digital no domínio das Ciências Humanas e Sociais. (MANIFESTO das Humanidades Digitais, 2010, não paginado.)</i>
 
