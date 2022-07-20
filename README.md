@@ -1,6 +1,6 @@
 # Considerações Importantes
 
-Neste repositório incluirei diversos notebooks em Python que descrevem os principais projetos pensados e feitos por mim para aprendizagem prática relacionados à Ciência de Dados, e nestes casos, combinadas com as Ciências Sociais.
+Neste repositório incluirei diversos notebooks em Python que descrevem os principais projetos pensados e feitos por mim para aprendizagem prática relacionados à Ciência de Dados combinados com as Ciências Sociais. O objetivo de aliar esses dois tipos de abordagens é estender o entendimento de problemas importantes colaborando para contrução de novas politicas publicas.
 
 ## Introdução
 
