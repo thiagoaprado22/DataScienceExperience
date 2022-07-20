@@ -26,4 +26,3 @@ Palavras-chaves:
 
 ######
 
-## Referencial Bibliografico
