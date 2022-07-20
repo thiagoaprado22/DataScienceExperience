@@ -10,6 +10,8 @@
 
 ## Resumo
 
+Palavras-chaves:
+
 ######
 
 ## Objetivo
