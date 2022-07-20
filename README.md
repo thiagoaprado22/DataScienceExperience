@@ -1,6 +1,8 @@
 # Considerações Importantes
 
-Neste repositório incluirei diversos notebooks em Python que descrevem os principais projetos pensados e feitos por mim para aprendizagem prática relacionados à Ciência de Dados combinados com as Ciências Sociais. O objetivo de aliar esses dois tipos de abordagens é estender o entendimento de problemas importantes colaborando para contrução de novas politicas publicas.
+Neste repositório incluirei diversos notebooks em Python que descrevem os principais projetos pensados e feitos por mim para aprendizagem prática relacionados à Ciência de Dados combinados com as Ciências Sociais. "As humanidades digitais referem-se ao conjunto das Ciências Humanas e Sociais, às Artes e às Letras. As humanidades digitais não negam o passado; apoiam-se, pelo contrário, no conjunto dos paradigmas, no saber fazer e conhecimentos próprios dessas disciplinas, mobilizando simultaneamente os instrumentos e as perspectivas singulares do mundo digital. As humanidades digitais designam uma transdisciplina, portadora dos métodos, dos dispositivos e das perspectivas heurísticas ligadas ao digital no domínio das Ciências Humanas e Sociais. (MANIFESTO das Humanidades Digitais, 2010, não paginado.)
+
+O objetivo de aliar esses dois tipos de abordagens é estender o entendimento de problemas importantes colaborando para contrução de novas politicas publicas.
 
 ## Introdução
 
