@@ -1,8 +1,8 @@
-# DataScienceLearningExperience 
+# Considerações Importantes
 
-Neste repositório incluirei diversos notebooks em Python que descrevem os principais projetos pensados e feitos por mim para aprendizagem prática relacionados à Ciência de Dados.
+Neste repositório incluirei diversos notebooks em Python que descrevem os principais projetos pensados e feitos por mim para aprendizagem prática relacionados à Ciência de Dados, e nestes casos, combinadas com as Ciências Sociais.
 
-## Social Data Science - Introdução
+## Introdução
 
 Nos tempos modernos, não houve nenhum esforço científico bem-sucedido que não dependesse de dados. Seguindo este processo proposto pela Ciência de Dados, as pesquisas e projetos pensados e executados, ainda que de forma iniciante podem colaborar e trazer reflexões sobre a analise, confecção e utilização de  dos processos de extração de informação que participem na condução da tomada de decisão humana ou ainda de aprendizagem de máquina. A utilização de big data está se tornando cada vez mais importante na pesquisa social, mas traz uma série de desafios éticos e elementos de design de pesquisa a serem considerados.
 
