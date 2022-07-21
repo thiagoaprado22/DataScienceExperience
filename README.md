@@ -12,7 +12,11 @@ Trabalhar com a representação e visualização gráfica dos dados como estrutu
 
 O Alan Turing Institute (ATI) é o instituto nacional de ciência de dados e inteligência artificial do Reino Unido, fundado em 2015. O instituto mantém uma área de pesquisa em Social data science ou ainda com o nome de Computational social science (CSS) com o objetivo de construir uma rede para esse campo e incentivar pesquisas futuras.
 
-Desta forma, ***este repositório de estudos*** se esforça para colaborar com pesquisas e projetos sociais sem pretender verdades absolutas. O objetivo é aprender a trabalhar com dados e se possível trazer reflexões que possam estender o entendimento de problemas sociais importantes. Considero ainda a intenção de incentivar novas pesquisas e pessoas interessadas que favoreçam a construção de novas políticas públicas mais justas e equitativas
+Desta forma, ***este repositório de estudos*** se esforça para colaborar com pesquisas e projetos sociais sem pretender verdades absolutas. O objetivo é aprender a trabalhar com dados e se possível trazer reflexões que possam estender o entendimento de problemas sociais importantes. Considero ainda a intenção de incentivar novas pesquisas e pessoas interessadas que favoreçam a construção de novas políticas públicas mais justas e equitativas.
 
 [![author](https://img.shields.io/badge/author-ThiagoPrado-blue.svg)](https://www.linkedin.com/in/thiago-de-almeida-prado-2a53601b9) 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/thiagoaprado22)
+
+![Isso é uma imagem](https://miro.medium.com/max/1400/0*rAbGI_QjmkF-Yapa.png)
+###### Cartoon created by Indeed UX Research Manager Dave Yeats using cmx.io
+###### Fonte: https://towardsdatascience.com/first-day-of-social-data-science-beedc2174232
