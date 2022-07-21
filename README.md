@@ -21,4 +21,4 @@ Desta forma, ***este repositório de estudos*** se esforça para colaborar com p
 
 ![Isso é uma imagem](https://miro.medium.com/max/1400/0*rAbGI_QjmkF-Yapa.png)
 ###### Cartoon created by Indeed UX Research Manager Dave Yeats using cmx.io
-###### Fonte: https://towardsdatascience.com/first-day-of-social-data-science-beedc2174232
+###### Fonte da Figura: https://towardsdatascience.com/first-day-of-social-data-science-beedc2174232
