@@ -2,7 +2,7 @@
 
 Em uma sociedade cada vez mais tecnológica, o termo “ciência de dados” vem se consolidando como um campo de convergência tecnológica, científica, acadêmica, filosófica e pragmaticamente interdisciplinar. Neste sentido, a ciência de dados sociais é uma possibilidade de pesquisa que combina as ciências sociais e a ciência de dados no esforço de usar abordagens computacionais para analisar e prever fenômenos sociais.
 
-A definição utilizada em nosso entendimento para esse domínio em construção é: “Ciência de Dados é um campo de estudo que se destaca pela capacidade de auxiliar a descoberta de informação útil a partir de grandes ou complexas bases de dados, bem como a tomada de decisão orientada por dados”. ( Fundação Oswaldo Cruz. Plataforma de Ciência de Dados aplicada à Saúde - PCDaS [Internet]. 2019 [citado em 2019 jun 15]. Disponível em: https://bigdata.icict.fiocruz.br)
+A definição utilizada em nosso entendimento para esse domínio em construção é: “Ciência de Dados é um campo de estudo que se destaca pela capacidade de auxiliar a descoberta de informação útil a partir de grandes ou complexas bases de dados, bem como a tomada de decisão orientada por dados”. *( Fundação Oswaldo Cruz. Plataforma de Ciência de Dados aplicada à Saúde - PCDaS [Internet]. 2019 [citado em 2019 jun 15]. Disponível em: https://bigdata.icict.fiocruz.br)*
 
 O desenvolvimento humano ligado à tecnologia já está fortemente relacionado com o atual momento da humanidade. Diante da quantidade de dados que é produzida a todo o instante, o que chamamos de big data, é necessário promover recortes dentro dessa imensidão, direcionado a pesquisa para objetivos que possam também ajudar a lidar com o viés social.
 
