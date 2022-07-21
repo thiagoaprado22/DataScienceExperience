@@ -1,3 +1,6 @@
+[![author](https://img.shields.io/badge/author-ThiagoPrado-blue.svg)](https://www.linkedin.com/in/thiago-de-almeida-prado-2a53601b9) 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/thiagoaprado22)
+
 ### Ciência de dados sociais ou ainda ciências sociais computacionais (CSS): é possível usar abordagens computacionais para analisar e prever fenômenos sociais ?
 
 Em uma sociedade cada vez mais tecnológica, o termo “ciência de dados” vem se consolidando como um campo de convergência tecnológica, científica, acadêmica, filosófica e pragmaticamente interdisciplinar. Neste sentido, a ciência de dados sociais é uma possibilidade de pesquisa que combina as ciências sociais e a ciência de dados no esforço de usar abordagens computacionais para analisar e prever fenômenos sociais.
@@ -14,8 +17,7 @@ O Alan Turing Institute (ATI) é o instituto nacional de ciência de dados e int
 
 Desta forma, ***este repositório de estudos*** se esforça para colaborar com pesquisas e projetos sociais sem pretender verdades absolutas. O objetivo é aprender a trabalhar com dados e se possível trazer reflexões que possam estender o entendimento de problemas sociais importantes. Considero ainda a intenção de incentivar novas pesquisas e pessoas interessadas que favoreçam a construção de novas políticas públicas mais justas e equitativas.
 
-[![author](https://img.shields.io/badge/author-ThiagoPrado-blue.svg)](https://www.linkedin.com/in/thiago-de-almeida-prado-2a53601b9) 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/thiagoaprado22)
+##
 
 ![Isso é uma imagem](https://miro.medium.com/max/1400/0*rAbGI_QjmkF-Yapa.png)
 ###### Cartoon created by Indeed UX Research Manager Dave Yeats using cmx.io
